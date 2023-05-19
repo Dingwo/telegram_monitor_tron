@@ -1,5 +1,5 @@
 telegram:
-  token: 6289524143:AAGOzIOvcIQIKUhJi_pdAReoNr0HTc4CVBc
+  token: 6289524xxx:AAGOzIOvcIQIKUhJi_pdAReoNr0HTc4CVxxxx
   db:
     type: mysql
     dsn: "root@tcp(127.0.0.1:3306)/test?charset=utf8&parseTime=True&loc=Local"
