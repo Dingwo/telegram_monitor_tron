@@ -1,0 +1,9 @@
+telegram:
+  token: 6289524143:AAGOzIOvcIQIKUhJi_pdAReoNr0HTc4CVBc
+  db:
+    type: mysql
+    dsn: "root@tcp(127.0.0.1:3306)/test?charset=utf8&parseTime=True&loc=Local"
+    maxIdle: 100
+    maxOpen: 200
+    timeout: 30
+    ready_only:
