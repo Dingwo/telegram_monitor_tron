@@ -6,6 +6,7 @@ usdt address monitoring robot
 [![license](https://camo.githubusercontent.com/3d15d4feb653bd7e09d739778e8c3379e1da1e48524a3342046cdd7dd4e64261/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736e616b656a6f7264616e2f61646d696e6973747261746976652d6469766973696f6e732d6f662d4368696e612d6f6e2d507974686f6e2e737667)](https://github.com/snakejordan/administrative-divisions-of-China-on-Python/blob/master/LICENSE) 
 
 **主要功能：**
+
 1.监听USDT/TRC20 链入账出账通知
 
 2.查询USDT/TRC20 余额
@@ -20,15 +21,8 @@ usdt address monitoring robot
 
 修改telegram.yaml配置文件中的token和 dsn数据库连接
 
-`tel`egram:`
-  `token: 6158073xxx:AAEyx2sB9qoJSuL_cW460E7Mtitou9dxxxx`
-  `db:`
-    `type: mysql  
-    dsn: "root@tcp(127.0.0.1:3306)/tgxxx?charset=utf8&parseTime=True&loc=Local"`
-    `maxIdle: 100`
-    `maxOpen: 200`
-    `timeout: 30`
-    ready_only:`
+`telegram:token: 6158073xxx:AAEyx2sB9qoJSuL_cW460E7Mtitou9dxxxxdb:type: mysql  
+    dsn: "root@tcp(127.0.0.1:3306)/tgxxx?charset=utf8&parseTime=True&loc=Local"maxIdle: 100maxOpen: 200timeout: 30ready_only:`
 
 **启动命令**
 
