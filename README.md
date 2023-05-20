@@ -35,6 +35,7 @@ telegram:
  #tail -f nohup.out  
  
 演示版本：
+https://raw.githubusercontent.com/Dingwo/telegram_monitor_tron/main/iShot_2023-05-20_09.17.33.png![image](https://github.com/Dingwo/telegram_monitor_tron/assets/134056073/6aac95e6-a384-4f5b-8cbb-66c8adfdec58)
 
 私人定制：
 
