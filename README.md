@@ -21,8 +21,16 @@ usdt address monitoring robot
 
 修改telegram.yaml配置文件中的token和 dsn数据库连接
 
-`telegram:token: 6158073xxx:AAEyx2sB9qoJSuL_cW460E7Mtitou9dxxxxdb:type: mysql  
-    dsn: "root@tcp(127.0.0.1:3306)/tgxxx?charset=utf8&parseTime=True&loc=Local"maxIdle: 100maxOpen: 200timeout: 30ready_only:`
+`telegram:token: 6158073xxx:AAEyx2sB9qoJSuL_cW460E7Mtitou9dxxxx`
+
+`db:`
+
+`type: mysql  
+    dsn: "root@tcp(127.0.0.1:3306)/tgxxx?charset=utf8&parseTime=True&loc=Local"maxIdle: 100maxOpen: `
+
+`200timeout: `
+
+`30ready_only:`
 
 **启动命令**
 
