@@ -3,7 +3,7 @@
 usdt地址监控机器人 
 usdt address monitoring robot
 
-**演示机器人1.0版本**
+**演示机器人2.0版本**
 
 [@TTKJUSDTTBOT](https://t.me/TTKJUSDTTBOT) 
 
